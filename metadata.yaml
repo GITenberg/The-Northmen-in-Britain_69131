@@ -1,0 +1,40 @@
+_repo: The-Northmen-in-Britain_69131
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Williams, Morris Meredith
+    aliases:
+    - Williams, M. Meredith
+    - Williams, Morris M.
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '38907'
+    url: http://www.gutenberg.org/2009/agents/38907
+    wikipedia: https://en.wikipedia.org/wiki/Morris_Meredith_Williams
+creator:
+  author:
+    agent_name: Hull, Eleanor
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '44031'
+    url: http://www.gutenberg.org/2009/agents/44031
+description: ''
+gutenberg_issued: '2022-10-11'
+identifiers:
+  gutenberg: '69131'
+language: en
+pgterms:marc904: https://archive.org/details/northmeninbritai01hull
+pgterms:marc905: 20200228185155hull
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: MWS, Charlie Howard, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :Thomas Y. Crowell Company,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Northmen in Britain
+url: http://www.gutenberg.org/ebooks/69131

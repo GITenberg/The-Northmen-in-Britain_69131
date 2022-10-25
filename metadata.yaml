@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '38907'
     url: http://www.gutenberg.org/2009/agents/38907
     wikipedia: https://en.wikipedia.org/wiki/Morris_Meredith_Williams
+covers:
+- cover_type: archival
+  image_path: 69131-h/images/cover.jpg
 creator:
   author:
     agent_name: Hull, Eleanor
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '44031'
     url: http://www.gutenberg.org/2009/agents/44031
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69131#The-Northmen-in-Britain
 gutenberg_issued: '2022-10-11'
 identifiers:
   gutenberg: '69131'
